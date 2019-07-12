@@ -1,0 +1,72 @@
+.navButton {
+  background-color: lightblue;
+  border: none;
+  border-radius: 5px;
+  color: black;
+  padding: 5px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+}
+
+.viewButton {
+  background-color: lightgreen;
+  border: none;
+  border-radius: 5px;
+  color: black;
+  padding: 5px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+}
+
+.updateButton {
+  background-color: lightblue;
+  border: none;
+  border-radius: 5px;
+  color: black;
+  padding: 5px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+}
+
+.removeButton {
+  background-color: red;
+  border: none;
+  border-radius: 5px;
+  color: black;
+  padding: 5px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+}
+
+.removeUserButton {
+  background-color: red;
+  border: none;
+  border-radius: 5px;
+  color: black;
+  padding: 5px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  width: 100px;
+}
+
+.addButton {
+  background-color: lightblue;
+  border: none;
+  border-radius: 5px;
+  color: black;
+  padding: 5px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+}

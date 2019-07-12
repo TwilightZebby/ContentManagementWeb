@@ -1,0 +1,29 @@
+.navButton {
+  text-decoration-line: none;
+}
+
+.navButton:hover {
+  text-decoration-line: solid;
+  color: black;
+}
+
+.viewButton:hover {
+  background-color: lightgreen;
+}
+
+.updateButton:hover {
+  background-color: lightblue;
+}
+
+.removeButton:hover {
+  background-color: red;
+}
+
+.removeUserButton:hover {
+  background-color: red;
+  width: 100px;
+}
+
+.addButton:hover {
+  background-color: lightblue;
+}
