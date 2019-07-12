@@ -8,6 +8,6 @@ Additionally, it also allowed for the highest ranked Users ('Admins') to be able
 ---
 **PLEASE NOTE THAT ALL SCRIPTS FOR UPLOADING OF FILES HAVE BEEN REMOVED FOR SECURITY REASONS**
 
-If you would like to see these scripts that have been removed, feel free to ping me a DM or something on Twitter (@TwilightZebby)[https://twitter.com/TwilightZebby]
+If you would like to see these scripts that have been removed, feel free to ping me a DM or something on Twitter [@TwilightZebby](https://twitter.com/TwilightZebby)
 
 ---
