@@ -11,3 +11,10 @@ Additionally, it also allowed for the highest ranked Users ('Admins') to be able
 If you would like to see these scripts that have been removed, feel free to ping me a DM or something on Twitter [@TwilightZebby](https://twitter.com/TwilightZebby)
 
 ---
+## How to run/test?
+
+Simply download this Repo, and open `index.html` in a Web browser.
+
+Chrome or Opera are better to use this in - This site had been tested in those two browsers.
+
+---
