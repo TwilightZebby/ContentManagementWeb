@@ -1,3 +1,6 @@
+# THE LICENSE
+The License for this Project, and all of TwilightZebby's Projects, can be [found here](https://github.com/TwilightZebby/license/blob/main/license.md).
+
 # Content Management Website
 
 This was a website I made as part of my BTEC Level 3 Computing course.
@@ -7,8 +10,6 @@ Additionally, it also allowed for the highest ranked Users ('Admins') to be able
 
 ---
 **PLEASE NOTE THAT ALL SCRIPTS FOR UPLOADING OF FILES HAVE BEEN REMOVED FOR SECURITY REASONS**
-
-If you would like to see these scripts that have been removed, feel free to ping me a DM or something on Twitter [@TwilightZebby](https://twitter.com/TwilightZebby)
 
 ---
 ## How to run/test?
